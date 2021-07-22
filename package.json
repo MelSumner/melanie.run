@@ -1,10 +1,10 @@
 {
-  "baseUrl": "https://cass.run",
+  "baseUrl": "https://melanie.run",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
   },
-  "author": "cassidoo",
+  "author": "Melanie Sumner <melanie.sumner@hey.com>",
   "devDependencies": {
     "netlify-shortener": "^1.0.1"
   }
