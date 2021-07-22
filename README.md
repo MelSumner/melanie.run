@@ -9,4 +9,4 @@ Forked from [Cassidoo](https://github.com/cassidoo/cass.run)
 
 Clicking this button will clone the repo and deploy it to Netlify, be sure to rename your repo afterwards!
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/melsumner/melanie.run&utm_source=github&utm_medium=shortener-cs&utm_campaign=devex)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/melsumner/melanie.run)
